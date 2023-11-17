@@ -1,4 +1,4 @@
-# S3 Single File Uploader
+# S3 Single & Multi File Uploader
 
 The script, single-file.sh allows you to upload a single file to an S3 bucket. It checks if the file exists locally before uploading it.
 
